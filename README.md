@@ -2,7 +2,7 @@
 
 - I'm nakyoenko3, a frontend developer.
 - I enjoy creating [scripts](https://github.com/nakyeonko3/Git-Bash-Enhancement-Scripts) or [libraries](https://github.com/byulhook/byul) to improve my productivity.
-- While I prefer frontend work, I can write simple backend code if needed❤️
+- While I prefer frontend work, I can write simple backend code if needed
 
 ### 🛠️ My Tech Stack
 
